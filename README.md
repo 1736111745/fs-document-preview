@@ -1,2 +1,2 @@
-# fs-document-prrview
+# fs-document-priview
 文档预览
